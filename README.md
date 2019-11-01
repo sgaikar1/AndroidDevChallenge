@@ -65,4 +65,5 @@ Which wouldn’t always require internet connection, but to send distress signal
 A great idea is just one part of the equation; we also want to learn a bit more about you. Share with us some of your other projects so we can get an idea of how we can assist you with your project.**  
   
 *Hello ! I am Santosh Gaikar, Android Developer at HaikuJam Technolgies Pvt Ltd.
-I love android, I have nearly 4+ years industrial experiance i android.*
+I love android, I have nearly 4+ years industrial experiance i android.
+I have worked on BLE, android IOT projects in past, currently i am working on HaikuJam app which is a collaborative writing social app, which allows strangers write together. *

@@ -8,20 +8,20 @@ Describe in 250 words what the feature or service will do and how you’ll use M
 <br/>
 <br/>
 
-*This app is basically SOS app, which helps everyone at a time of distress, most of the time current available solution doesnt work technically because
+This app is basically SOS app, which helps everyone at a time of distress, most of the time current available solution doesnt work technically because
 user might not able to open device due to screen lock or due to weak access to device, i.e. sometimes user don't have access to his device or device is not nearby to user, So basically we can setup user's preferred
 voice signal recorded by self as distress signal, as well as this system will recognize the pattern of distress by surrounding noice and user's panic voice.
 
-Problem: 
+* Problem: 
   - In distress there can be a scenario where victim might not have access to his device
   - If he has device, he might not able to open the sos app or press combination of buttons to trigger distress call
   - Every one doesn't install sos on their device.
  
-Why people should care:
+* Why people should care:
   - In emergency, without doing any required action user will get help
   - System will notify to his family members, police, ambulance and fire brigade if required
 
-Proposal:
+* Proposal:
   Build a system where device will act on behalf of user in emergency situation like accident, fire or even in kidnap.
   - System is basically an app which will consist following modules
       App -> Trained ml algo -> server
@@ -29,8 +29,8 @@ Proposal:
       - On device ml model - It is a trained model deployed on user's device where it will analys surrounding situation and acts on             behalf of user
       - Server - It can be used to train model remotely, to make it more accurate.
 
-Why ML:
-  -As we discussed in first section, there can be a situation where user might not have access to his device and because of that ml can    act on behalf of him.*  
+* Why ML:
+  -As we discussed in first section, there can be a situation where user might not have access to his device and because of that ml can    act on behalf of him.
 <br/>
 <br/>
 

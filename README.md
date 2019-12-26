@@ -16,17 +16,18 @@ Problem:
   - In distress there can be a scenario where victim might not have access to his device
   - If he has device, he might not able to open the sos app or press combination of buttons to trigger distress call
   - Every one doesn't install sos on their device.
+ 
 Why people should care:
   - In emergency, without doing any required action user will get help
   - System will notify to his family members, police, ambulance and fire brigade if required
 
 Proposal:
-Build a system where device will act on behalf of user in emergency situation like accident, fire or even in kidnap.
+  Build a system where device will act on behalf of user in emergency situation like accident, fire or even in kidnap.
   - System is basically an app which will consist following modules
       App -> Trained ml algo -> server
-        App - it is just an user interface where user can specify his personal contacts as emergency contacts and few other settings.
-        On device ml model - It is a trained model deployed on user's device where it will analys surrounding situation and acts on             behalf of user
-        Server - It can be used to train model remotely, to make it more accurate.
+      - App - it is just an user interface where user can specify his personal contacts as emergency contacts and few other settings.
+      - On device ml model - It is a trained model deployed on user's device where it will analys surrounding situation and acts on             behalf of user
+      - Server - It can be used to train model remotely, to make it more accurate.
 
 Why ML:
   -As we discussed in first section, there can be a situation where user might not have access to his device and because of that ml can    act on behalf of him.*  
